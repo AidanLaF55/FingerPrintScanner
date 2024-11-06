@@ -49,13 +49,15 @@ def orb(ref_image_path, sub_image_path):
     #count the number of successful matches
     success = [i for i in matches if i.distance < distance_threshold]
 
-    print(f"Successful minutia features matched count: {len(success)}")
+    print(f"ORB Algorithm ------> Successful minutia features matched count: {len(success)}")
 
     #compare the images based on the previous threshold of ERR
     if len(success) > success_threshold:
         print("The fingerprints are likely the same")
+        return True
     else:
         print("The fingerprints are likely different")
+        return False
 
 
 #This function uses the Scale Invariant Feature Transform algorithm from the opencv library
@@ -101,13 +103,15 @@ def sift(ref_image_path, sub_image_path):
     #count the number of successful matches
     success = [i for i in matches if i.distance < distance_threshold]
 
-    print(f"Successful minutia features matched count: {len(success)}")
+    print(f"SIFT Algorithm ------> Successful minutia features matched count: {len(success)}")
 
     #compare the images based on the previous threshold of ERR
     if len(success) > success_threshold:
         print("The fingerprints are likely the same")
+        return True
     else:
         print("The fingerprints are likely different")
+        return False
 
 #This function makes use of the FAST algorithm and the BRIEF algorithm
 #FAST will detect the minutia features
@@ -161,13 +165,51 @@ def fast(ref_image_path, sub_image_path):
     #count the number of successful matches
     success = [i for i in matches if i.distance < distance_threshold]
 
-    print(f"Successful minutia features matched count: {len(success)}")
+    print(f"FAST Algorithm ------> Successful minutia features matched count: {len(success)}")
 
     #compare the images based on the previous threshold of ERR
     if len(success) > success_threshold:
         print("The fingerprints are likely the same")
+        return True
     else:
         print("The fingerprints are likely different")
+        return False
+
+def hybrid(ref_image_path, sub_image_path):
+
+    #call the other extraction methods and determine their result
+    orb_bool = orb(ref_image_path, sub_image_path)
+    sift_bool = sift(ref_image_path, sub_image_path)
+    fast_bool = fast(ref_image_path, sub_image_path)
+
+    print("\nHybrid Results")
+
+    if orb_bool == True and sift_bool == True and fast_bool == True:
+        print("Fingerprint was matched successfully across all three methods")
+        return True
+    elif orb_bool == False and sift_bool == True and fast_bool == True:
+        print("Fingerprint was matched successfully with two methods")
+        return True
+    elif orb_bool == True and sift_bool == False and fast_bool == True:
+        print("Fingerprint was matched successfully with two methods")
+        return True
+    elif orb_bool == True and sift_bool == True and fast_bool == False:
+        print("Fingerprint was matched successfully with two methods")
+        return True
+    elif orb_bool == False and sift_bool == True and fast_bool == False:
+        print("Fingerprint was matched successfully with one method \nNot a likely match.")
+        return False
+    elif orb_bool == False and sift_bool == False and fast_bool == True:
+        print("Fingerprint was matched successfully with one method \nNot a likely match.")
+        return False
+    elif orb_bool == True and sift_bool == False and fast_bool == False:
+        print("Fingerprint was matched successfully with one method \nNot a likely match.")
+        return False
+    elif orb_bool == False and sift_bool == False and fast_bool == False:
+        print("Fingerprint was not matched with any of the three methods \nNot a likely match")
+        return False
+
+
 
 def main():
     ref_path = "NISTSpecialDatabase4GrayScaleImagesofFIGS/sd04/png_txt/figs_0/f0001_01.png"
@@ -175,7 +217,8 @@ def main():
 
     #orb(ref_path, ref_path)
     #sift(ref_path, ref_path)
-    fast(ref_path, sub_path)
+    #fast(ref_path, sub_path)
+    hybrid(ref_path, ref_path)
 
 if __name__ == "__main__":
     main()
