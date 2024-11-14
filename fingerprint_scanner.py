@@ -1,26 +1,35 @@
 '''
-This file takes in the NIST fingerpint database and trains a model to identify and extract minutia from the fingerprints.  
+This file takes in the NIST fingerpint database and trains a model to identify and extract minutia from the fingerprints.
+It uses the cv2 library and tensorflow to try to train a model
+Author Aidan LaFond  
 
 '''
 import cv2
 import numpy as np
 from skimage import io
+from sklearn.model_selection import train_test_split
+import os
+import glob
+import shutil
+import tensorflow as tf
+from keras import layers, models
+
 
 #This function uses the Oriented Fast and Rotated Brief algorithm from the OpenCV library
 #https://docs.opencv.org/3.4/d1/d89/tutorial_py_orb.html
 #https://docs.opencv.org/3.4/dc/dc3/tutorial_py_matcher.html
-def orb(ref_image_path, sub_image_path):
+def orb(ref_image_path):
 
     #take in the images
     ref_image = io.imread(ref_image_path, as_gray=True)
-    sub_image = io.imread(sub_image_path, as_gray=True)
+    #sub_image = io.imread(sub_image_path, as_gray=True)
 
     #initialize the orb
     orb = cv2.ORB_create()
 
     #use the orb library to calculate the keypoints and descriptors of the fingerprints
     keypoints_ref, descriptors_ref = orb.detectAndCompute(ref_image, None)
-    keypoints_sub, descriptors_sub = orb.detectAndCompute(sub_image, None)
+    #keypoints_sub, descriptors_sub = orb.detectAndCompute(sub_image, None)
 
     #draw the keypoints on the images to show differences/similarity
     #ref_with_keypoints = cv2.drawKeypoints(ref_image, keypoints_ref, None, color=(0,255,0))
@@ -36,10 +45,10 @@ def orb(ref_image_path, sub_image_path):
     brute_force = cv2.BFMatcher(cv2.NORM_HAMMING, crossCheck=True)
     
     #attempt to match the descriptors calculated from both images
-    matches = brute_force.match(descriptors_ref, descriptors_sub)
+    #matches = brute_force.match(descriptors_ref, descriptors_sub)
 
     #sort the matches based on distance, closer matches will be placed first
-    matches = sorted(matches, key=lambda x: x.distance)
+    #matches = sorted(matches, key=lambda x: x.distance)
 
     #implement a threshold that will represent the equal error rate of the matches
     #this threshold can and should be tested/modified for accuracy
@@ -47,17 +56,11 @@ def orb(ref_image_path, sub_image_path):
     success_threshold = 250
 
     #count the number of successful matches
-    success = [i for i in matches if i.distance < distance_threshold]
+    #success = [i for i in matches if i.distance < distance_threshold]
 
-    print(f"ORB Algorithm ------> Successful minutia features matched count: {len(success)}")
+    #print(f"ORB Algorithm ------> Successful minutia features matched count: {len(success)}")
 
-    #compare the images based on the previous threshold of ERR
-    if len(success) > success_threshold:
-        print("The fingerprints are likely the same")
-        return True
-    else:
-        print("The fingerprints are likely different")
-        return False
+    return descriptors_ref
 
 
 #This function uses the Scale Invariant Feature Transform algorithm from the opencv library
@@ -105,13 +108,7 @@ def sift(ref_image_path, sub_image_path):
 
     print(f"SIFT Algorithm ------> Successful minutia features matched count: {len(success)}")
 
-    #compare the images based on the previous threshold of ERR
-    if len(success) > success_threshold:
-        print("The fingerprints are likely the same")
-        return True
-    else:
-        print("The fingerprints are likely different")
-        return False
+    return len(success)
 
 #This function makes use of the FAST algorithm and the BRIEF algorithm
 #FAST will detect the minutia features
@@ -167,47 +164,63 @@ def fast(ref_image_path, sub_image_path):
 
     print(f"FAST Algorithm ------> Successful minutia features matched count: {len(success)}")
 
-    #compare the images based on the previous threshold of ERR
-    if len(success) > success_threshold:
-        print("The fingerprints are likely the same")
-        return True
-    else:
-        print("The fingerprints are likely different")
-        return False
+    return len(success)
 
-def hybrid(ref_image_path, sub_image_path):
 
-    #call the other extraction methods and determine their result
-    orb_bool = orb(ref_image_path, sub_image_path)
-    sift_bool = sift(ref_image_path, sub_image_path)
-    fast_bool = fast(ref_image_path, sub_image_path)
 
-    print("\nHybrid Results")
+def training():
 
-    if orb_bool == True and sift_bool == True and fast_bool == True:
-        print("Fingerprint was matched successfully across all three methods")
-        return True
-    elif orb_bool == False and sift_bool == True and fast_bool == True:
-        print("Fingerprint was matched successfully with two methods")
-        return True
-    elif orb_bool == True and sift_bool == False and fast_bool == True:
-        print("Fingerprint was matched successfully with two methods")
-        return True
-    elif orb_bool == True and sift_bool == True and fast_bool == False:
-        print("Fingerprint was matched successfully with two methods")
-        return True
-    elif orb_bool == False and sift_bool == True and fast_bool == False:
-        print("Fingerprint was matched successfully with one method \nNot a likely match.")
-        return False
-    elif orb_bool == False and sift_bool == False and fast_bool == True:
-        print("Fingerprint was matched successfully with one method \nNot a likely match.")
-        return False
-    elif orb_bool == True and sift_bool == False and fast_bool == False:
-        print("Fingerprint was matched successfully with one method \nNot a likely match.")
-        return False
-    elif orb_bool == False and sift_bool == False and fast_bool == False:
-        print("Fingerprint was not matched with any of the three methods \nNot a likely match")
-        return False
+    model = models.Sequential([layers.Conv2D(32, (3, 3), activation='relu', input_shape=(128, 128, 1)), layers.MaxPooling2D((2,2)), layers.Conv2D(64, (3,3), activation='relu'), layers.MaxPooling2D((2,2)), layers.Flatten(), layers.Dense(128, activation='relu'), layers.Dense(2, activation='softmax')])
+
+    model.compile(optimizers='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
+
+
+        
+
+
+def calculateEER():
+    #open the file containing all image paths
+    base_path = "NISTSpecialDatabase4GrayScaleImagesofFIGS/"
+    with open("NISTSpecialDatabase4GrayScaleImagesofFIGS/sd04/imagelist.txt", 'r') as file:
+        image_paths = file.readlines()
+
+    #initiliaze variables to count false acceptance and false rejections
+    total_images = len(image_paths)
+    false_accepts = 0
+    false_rejects = 0
+
+    
+    for i in range(0, (len(image_paths)//10), 2):
+        #go through all of the images skipping two at a time
+        ref_image_path = base_path + image_paths[i].strip()
+        sub_image_path = base_path + image_paths[i+1].strip()
+        #calculate the features extracted across the three algorithms
+        orb_success = orb(ref_image_path)
+        sift_success = sift(ref_image_path, sub_image_path)
+        fast_success = fast(ref_image_path, sub_image_path)
+
+        #compare the matches aginst the predetermined threshold to see if the fingerprints are the same
+        if orb_success.all() < 250:
+            false_rejects +=1
+        else:
+            false_accepts +=1
+        
+        if sift_success < 1000:
+            false_rejects +=1
+        else:
+            false_accepts +=1
+        
+        if fast_success < 100:
+            false_rejects +=1
+        else:
+            false_accepts +=1
+    
+    frr = false_rejects // total_images
+    far = false_accepts // total_images
+    eer = (frr + far) // 2
+    return eer
+
+
 
 
 
@@ -218,7 +231,12 @@ def main():
     #orb(ref_path, ref_path)
     #sift(ref_path, ref_path)
     #fast(ref_path, sub_path)
-    hybrid(ref_path, ref_path)
+    #hybrid(ref_path, ref_path)
+    #print(calculateEER())
+    #training()
+    
+        
+    
 
 if __name__ == "__main__":
     main()
