@@ -1,3 +1,0 @@
-Gender: F
-Class: A
-History: f1679_09.pct AT a1999.pct

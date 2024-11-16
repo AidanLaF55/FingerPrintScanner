@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1514_01.pct TA a2491.pct

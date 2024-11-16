@@ -1,3 +1,0 @@
-Gender: F
-Class: T
-History: s1173_08.pct T b1968.pct

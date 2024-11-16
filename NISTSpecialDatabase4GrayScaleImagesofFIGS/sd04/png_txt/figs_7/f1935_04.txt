@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: f1935_04.pct R a1264.pct

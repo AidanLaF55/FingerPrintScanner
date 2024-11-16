@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1335_08.pct TL a2738.pct

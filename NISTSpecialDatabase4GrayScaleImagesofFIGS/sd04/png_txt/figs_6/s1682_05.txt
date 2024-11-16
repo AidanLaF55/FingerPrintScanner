@@ -1,3 +1,0 @@
-Gender: F
-Class: T
-History: s1682_05.pct TR b2175.pct

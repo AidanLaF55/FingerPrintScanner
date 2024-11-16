@@ -1,3 +1,0 @@
-Gender: F
-Class: R
-History: f1019_04.pct R a0924.pct

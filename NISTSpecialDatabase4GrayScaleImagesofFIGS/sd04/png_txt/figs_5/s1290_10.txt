@@ -1,3 +1,0 @@
-Gender: M
-Class: W
-History: s1290_10.pct W b131a.pct

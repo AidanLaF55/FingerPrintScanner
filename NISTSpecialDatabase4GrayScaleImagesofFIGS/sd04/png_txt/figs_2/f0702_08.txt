@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0702_08.pct TL a2098.pct

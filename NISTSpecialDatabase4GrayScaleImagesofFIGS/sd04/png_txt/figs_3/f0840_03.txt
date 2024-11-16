@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: f0840_03.pct A a0083.pct

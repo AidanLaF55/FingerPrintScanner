@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1514_01.pct TA b2491.pct

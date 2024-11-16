@@ -1,3 +1,0 @@
-Gender: M
-Class: W
-History: s1057_06.pct W b1356.pct

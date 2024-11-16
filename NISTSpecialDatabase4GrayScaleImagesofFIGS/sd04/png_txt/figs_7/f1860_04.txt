@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: f1860_04.pct A a1494.pct

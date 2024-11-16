@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1498_03.pct TL a2653.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s0375_02.pct T b2772.pct

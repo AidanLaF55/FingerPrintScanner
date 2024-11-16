@@ -1,3 +1,0 @@
-Gender: F
-Class: R
-History: f0615_01.pct R a1611.pct

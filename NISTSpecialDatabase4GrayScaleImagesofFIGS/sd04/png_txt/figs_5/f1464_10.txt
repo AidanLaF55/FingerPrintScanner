@@ -1,3 +1,0 @@
-Gender: M
-Class: L
-History: f1464_10.pct L a208a.pct

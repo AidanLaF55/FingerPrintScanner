@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1521_02.pct T a0112.pct

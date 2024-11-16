@@ -1,3 +1,0 @@
-Gender: M
-Class: L
-History: f0907_06.pct L a2766.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1931_01.pct TR a2551.pct

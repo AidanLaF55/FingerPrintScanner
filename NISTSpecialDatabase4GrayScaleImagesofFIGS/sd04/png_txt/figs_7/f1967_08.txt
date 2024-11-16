@@ -1,3 +1,0 @@
-Gender: F
-Class: T
-History: f1967_08.pct T a2238.pct

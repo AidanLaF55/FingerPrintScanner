@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1228_02.pct TA a2712.pct

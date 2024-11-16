@@ -1,3 +1,0 @@
-Gender: M
-Class: W
-History: f1996_04.pct W a0574.pct

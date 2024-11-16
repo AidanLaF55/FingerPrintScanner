@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0423_02.pct TR a2322.pct

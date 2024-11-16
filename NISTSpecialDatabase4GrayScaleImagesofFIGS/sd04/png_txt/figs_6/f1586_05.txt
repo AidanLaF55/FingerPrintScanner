@@ -1,3 +1,0 @@
-Gender: F
-Class: A
-History: f1586_05.pct A a1995.pct

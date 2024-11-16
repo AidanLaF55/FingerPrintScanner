@@ -1,3 +1,0 @@
-Gender: F
-Class: T
-History: s0475_03.pct T b2033.pct

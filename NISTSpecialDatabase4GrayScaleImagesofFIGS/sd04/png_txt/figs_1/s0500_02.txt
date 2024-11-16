@@ -1,3 +1,0 @@
-Gender: F
-Class: A
-History: s0500_02.pct AT b1992.pct

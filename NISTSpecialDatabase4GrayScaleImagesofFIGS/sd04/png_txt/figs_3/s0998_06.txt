@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: s0998_06.pct AT b0186.pct

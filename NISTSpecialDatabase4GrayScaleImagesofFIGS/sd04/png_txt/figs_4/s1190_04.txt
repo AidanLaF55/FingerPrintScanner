@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: s1190_04.pct RT b2364.pct

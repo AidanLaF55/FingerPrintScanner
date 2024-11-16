@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: f1474_04.pct R a2564.pct

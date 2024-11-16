@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0625_02.pct T a0132.pct

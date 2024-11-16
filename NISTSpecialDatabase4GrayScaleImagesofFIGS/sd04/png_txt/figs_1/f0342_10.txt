@@ -1,3 +1,0 @@
-Gender: F
-Class: L
-History: f0342_10.pct L a220a.pct

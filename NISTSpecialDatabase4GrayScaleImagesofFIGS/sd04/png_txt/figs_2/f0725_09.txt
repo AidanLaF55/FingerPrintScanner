@@ -1,3 +1,0 @@
-Gender: F
-Class: L
-History: f0725_09.pct L a2039.pct

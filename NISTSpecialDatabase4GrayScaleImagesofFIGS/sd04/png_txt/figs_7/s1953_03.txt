@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1953_03.pct TA b0133.pct

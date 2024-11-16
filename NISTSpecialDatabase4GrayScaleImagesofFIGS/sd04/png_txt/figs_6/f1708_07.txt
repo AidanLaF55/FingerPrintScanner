@@ -1,3 +1,0 @@
-Gender: M
-Class: W
-History: f1708_07.pct W a0347.pct

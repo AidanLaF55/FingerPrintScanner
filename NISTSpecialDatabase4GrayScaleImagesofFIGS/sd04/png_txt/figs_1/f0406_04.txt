@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0406_04.pct TA a1034.pct

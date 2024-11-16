@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: f1213_04.pct A a0424.pct

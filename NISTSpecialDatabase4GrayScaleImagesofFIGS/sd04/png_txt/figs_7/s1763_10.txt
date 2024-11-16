@@ -1,3 +1,0 @@
-Gender: F
-Class: A
-History: s1763_10.pct AT b199a.pct

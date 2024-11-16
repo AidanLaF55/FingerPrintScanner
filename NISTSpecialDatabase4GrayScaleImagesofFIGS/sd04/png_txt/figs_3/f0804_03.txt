@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0804_03.pct TA a2343.pct

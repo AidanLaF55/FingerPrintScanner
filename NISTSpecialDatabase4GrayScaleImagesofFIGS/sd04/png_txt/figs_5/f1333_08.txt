@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1333_08.pct TL a2358.pct

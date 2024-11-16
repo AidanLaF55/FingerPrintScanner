@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0703_02.pct TA a2462.pct

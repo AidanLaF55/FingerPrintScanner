@@ -1,3 +1,0 @@
-Gender: F
-Class: T
-History: f1327_08.pct T a2198.pct

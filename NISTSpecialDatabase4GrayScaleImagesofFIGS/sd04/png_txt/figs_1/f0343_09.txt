@@ -1,3 +1,0 @@
-Gender: F
-Class: L
-History: f0343_09.pct L a1989.pct

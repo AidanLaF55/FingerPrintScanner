@@ -1,3 +1,0 @@
-Gender: F
-Class: W
-History: f1772_04.pct WR a0714.pct

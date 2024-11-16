@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: s0374_04.pct R b2494.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1210_08.pct T a0768.pct

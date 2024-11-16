@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: f0372_07.pct R a0497.pct

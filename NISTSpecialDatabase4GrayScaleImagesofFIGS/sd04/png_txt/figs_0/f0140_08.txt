@@ -1,3 +1,0 @@
-Gender: F
-Class: T
-History: f0140_08.pct TA a2038.pct

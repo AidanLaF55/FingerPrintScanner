@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: f1989_01.pct A a1741.pct

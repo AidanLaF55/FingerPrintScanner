@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s0894_06.pct TA b2466.pct

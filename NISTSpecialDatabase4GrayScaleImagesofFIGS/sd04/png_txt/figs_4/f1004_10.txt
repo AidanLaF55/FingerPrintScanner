@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: f1004_10.pct A a148a.pct

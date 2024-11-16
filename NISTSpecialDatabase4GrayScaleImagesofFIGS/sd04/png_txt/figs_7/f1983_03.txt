@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: f1983_03.pct R a1333.pct

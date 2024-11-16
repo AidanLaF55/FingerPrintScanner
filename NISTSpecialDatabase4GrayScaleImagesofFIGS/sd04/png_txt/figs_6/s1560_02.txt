@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1560_02.pct TL b0672.pct

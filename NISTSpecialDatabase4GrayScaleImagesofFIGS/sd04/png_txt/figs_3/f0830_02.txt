@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: f0830_02.pct A a1662.pct

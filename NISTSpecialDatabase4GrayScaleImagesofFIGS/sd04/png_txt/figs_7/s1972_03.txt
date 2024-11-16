@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1972_03.pct TR b2093.pct

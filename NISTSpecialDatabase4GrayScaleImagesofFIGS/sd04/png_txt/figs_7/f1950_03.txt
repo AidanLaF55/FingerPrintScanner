@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: f1950_03.pct R a1003.pct

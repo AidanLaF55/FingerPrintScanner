@@ -1,3 +1,0 @@
-Gender: F
-Class: L
-History: f1347_09.pct L a2299.pct

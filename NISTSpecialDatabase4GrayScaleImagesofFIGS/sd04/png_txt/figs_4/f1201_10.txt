@@ -1,3 +1,0 @@
-Gender: F
-Class: L
-History: f1201_10.pct L a109a.pct

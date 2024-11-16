@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1928_02.pct TL a2792.pct

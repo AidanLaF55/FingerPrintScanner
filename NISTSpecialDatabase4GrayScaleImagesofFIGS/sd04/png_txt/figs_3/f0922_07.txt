@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0922_07.pct TL a2397.pct

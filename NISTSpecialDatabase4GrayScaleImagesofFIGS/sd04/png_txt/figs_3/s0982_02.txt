@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: s0982_02.pct A b1802.pct

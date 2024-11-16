@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1683_08.pct T b2428.pct

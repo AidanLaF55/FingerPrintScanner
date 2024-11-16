@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1186_07.pct TL b0437.pct

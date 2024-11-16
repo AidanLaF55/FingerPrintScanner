@@ -1,3 +1,0 @@
-Gender: F
-Class: L
-History: s1028_06.pct L b1986.pct

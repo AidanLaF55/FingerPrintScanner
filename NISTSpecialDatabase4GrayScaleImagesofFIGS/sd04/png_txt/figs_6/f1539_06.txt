@@ -1,3 +1,0 @@
-Gender: M
-Class: L
-History: f1539_06.pct L a1226.pct

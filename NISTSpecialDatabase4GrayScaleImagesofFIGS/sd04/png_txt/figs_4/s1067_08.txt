@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1067_08.pct T b2638.pct

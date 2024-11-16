@@ -1,3 +1,0 @@
-Gender: F
-Class: L
-History: s1670_08.pct L b1308.pct

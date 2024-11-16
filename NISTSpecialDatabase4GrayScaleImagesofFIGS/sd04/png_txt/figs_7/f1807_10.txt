@@ -1,3 +1,0 @@
-Gender: F
-Class: W
-History: f1807_10.pct W a138a.pct

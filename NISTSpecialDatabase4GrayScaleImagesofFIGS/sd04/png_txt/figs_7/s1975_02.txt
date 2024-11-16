@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1975_02.pct TR b2742.pct

@@ -1,3 +1,0 @@
-Gender: F
-Class: A
-History: f0532_02.pct A a2282.pct

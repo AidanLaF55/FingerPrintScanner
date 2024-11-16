@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0056_04.pct T a2384.pct

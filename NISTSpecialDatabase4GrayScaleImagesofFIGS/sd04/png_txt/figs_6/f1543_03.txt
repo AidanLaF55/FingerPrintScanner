@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1543_03.pct TR a2773.pct

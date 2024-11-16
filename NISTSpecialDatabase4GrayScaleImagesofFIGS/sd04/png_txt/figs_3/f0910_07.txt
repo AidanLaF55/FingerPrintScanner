@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0910_07.pct TR a2617.pct

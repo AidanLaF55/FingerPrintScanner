@@ -1,3 +1,0 @@
-Gender: F
-Class: T
-History: f1897_07.pct TL a2017.pct

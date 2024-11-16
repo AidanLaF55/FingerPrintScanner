@@ -1,3 +1,0 @@
-Gender: F
-Class: T
-History: f0127_04.pct TR a1954.pct

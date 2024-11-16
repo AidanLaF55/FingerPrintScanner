@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1259_08.pct T a2418.pct

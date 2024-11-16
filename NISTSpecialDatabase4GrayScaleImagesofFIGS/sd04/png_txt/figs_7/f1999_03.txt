@@ -1,3 +1,0 @@
-Gender: F
-Class: W
-History: f1999_03.pct W a1093.pct

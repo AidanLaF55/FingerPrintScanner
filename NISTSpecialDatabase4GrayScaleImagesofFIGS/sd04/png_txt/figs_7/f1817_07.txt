@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1817_07.pct TR a2787.pct

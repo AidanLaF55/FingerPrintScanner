@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1037_06.pct T b2516.pct

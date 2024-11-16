@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: f1018_05.pct R a0085.pct

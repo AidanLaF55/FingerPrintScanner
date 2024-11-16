@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s0741_03.pct TA b2063.pct

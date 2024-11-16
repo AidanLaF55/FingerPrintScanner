@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0692_02.pct TL a2352.pct

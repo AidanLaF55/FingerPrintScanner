@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1090_08.pct T a2698.pct

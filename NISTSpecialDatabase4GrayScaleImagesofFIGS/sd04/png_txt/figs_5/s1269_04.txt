@@ -1,3 +1,0 @@
-Gender: F
-Class: R
-History: s1269_04.pct R b1474.pct

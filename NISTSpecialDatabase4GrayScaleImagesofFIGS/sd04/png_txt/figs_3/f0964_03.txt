@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0964_03.pct TR a2813.pct

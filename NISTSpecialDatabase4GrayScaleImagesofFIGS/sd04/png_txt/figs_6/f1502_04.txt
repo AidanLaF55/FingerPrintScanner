@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1502_04.pct TR a1914.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1199_08.pct T b1908.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: f1909_03.pct R a0493.pct

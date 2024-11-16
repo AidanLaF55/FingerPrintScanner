@@ -1,3 +1,0 @@
-Gender: F
-Class: W
-History: f1964_10.pct W a092a.pct

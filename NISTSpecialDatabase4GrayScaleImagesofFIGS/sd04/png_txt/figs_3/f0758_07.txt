@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0758_07.pct TA a2077.pct

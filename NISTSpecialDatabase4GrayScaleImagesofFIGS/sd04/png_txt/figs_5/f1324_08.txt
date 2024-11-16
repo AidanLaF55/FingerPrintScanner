@@ -1,3 +1,0 @@
-Gender: M
-Class: L
-History: f1324_08.pct L a0338.pct

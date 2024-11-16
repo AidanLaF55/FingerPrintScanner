@@ -1,3 +1,0 @@
-Gender: F
-Class: L
-History: s0103_10.pct LT b200a.pct

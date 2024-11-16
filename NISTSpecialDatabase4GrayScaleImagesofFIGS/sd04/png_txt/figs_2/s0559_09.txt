@@ -1,3 +1,0 @@
-Gender: F
-Class: L
-History: s0559_09.pct LT b2029.pct

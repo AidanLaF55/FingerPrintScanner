@@ -1,3 +1,0 @@
-Gender: F
-Class: T
-History: f0353_03.pct TR a2263.pct

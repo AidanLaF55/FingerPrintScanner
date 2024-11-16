@@ -1,3 +1,0 @@
-Gender: M
-Class: W
-History: s1976_10.pct W b007a.pct

@@ -1,3 +1,0 @@
-Gender: F
-Class: R
-History: f0647_01.pct R a1211.pct

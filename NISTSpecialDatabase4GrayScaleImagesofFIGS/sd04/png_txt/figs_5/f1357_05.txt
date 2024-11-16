@@ -1,3 +1,0 @@
-Gender: F
-Class: L
-History: f1357_05.pct L a1385.pct

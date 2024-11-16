@@ -1,3 +1,0 @@
-Gender: M
-Class: L
-History: s1698_10.pct L b265a.pct

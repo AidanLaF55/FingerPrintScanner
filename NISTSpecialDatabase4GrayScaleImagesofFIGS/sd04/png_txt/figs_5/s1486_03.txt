@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1486_03.pct TR b2323.pct

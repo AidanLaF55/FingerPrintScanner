@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: s1411_05.pct A b1445.pct

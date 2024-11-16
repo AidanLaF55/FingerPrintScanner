@@ -1,3 +1,0 @@
-Gender: M
-Class: L
-History: f1532_07.pct L a0907.pct

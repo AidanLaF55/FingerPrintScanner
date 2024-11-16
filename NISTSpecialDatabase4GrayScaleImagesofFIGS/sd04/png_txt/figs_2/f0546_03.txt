@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: f0546_03.pct R a2523.pct

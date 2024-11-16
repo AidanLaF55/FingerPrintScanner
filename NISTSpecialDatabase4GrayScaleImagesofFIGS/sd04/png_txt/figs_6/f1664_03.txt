@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: f1664_03.pct R a1413.pct

@@ -1,3 +1,0 @@
-Gender: F
-Class: R
-History: s0852_02.pct R b1112.pct

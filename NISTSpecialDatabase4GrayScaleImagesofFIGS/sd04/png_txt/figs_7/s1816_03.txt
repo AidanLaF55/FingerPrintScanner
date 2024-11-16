@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1816_03.pct TR b2633.pct

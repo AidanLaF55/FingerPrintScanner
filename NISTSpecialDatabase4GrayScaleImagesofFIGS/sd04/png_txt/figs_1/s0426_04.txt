@@ -1,3 +1,0 @@
-Gender: F
-Class: R
-History: s0426_04.pct R b2284.pct

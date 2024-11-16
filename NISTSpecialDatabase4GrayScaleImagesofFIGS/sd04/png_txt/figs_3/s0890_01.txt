@@ -1,3 +1,0 @@
-Gender: F
-Class: A
-History: s0890_01.pct A b2171.pct

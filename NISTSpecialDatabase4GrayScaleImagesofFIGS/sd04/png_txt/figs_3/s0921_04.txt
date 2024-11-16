@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: s0921_04.pct A b1514.pct

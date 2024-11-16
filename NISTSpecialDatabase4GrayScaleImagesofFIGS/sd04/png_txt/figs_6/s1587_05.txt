@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: s1587_05.pct R b1075.pct

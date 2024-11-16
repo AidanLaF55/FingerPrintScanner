@@ -1,3 +1,0 @@
-Gender: F
-Class: R
-History: f1233_04.pct RW a0504.pct

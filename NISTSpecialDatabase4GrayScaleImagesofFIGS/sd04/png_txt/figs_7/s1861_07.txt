@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1861_07.pct TR b0127.pct

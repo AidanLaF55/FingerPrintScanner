@@ -1,3 +1,0 @@
-Gender: M
-Class: W
-History: s1034_08.pct W b0078.pct

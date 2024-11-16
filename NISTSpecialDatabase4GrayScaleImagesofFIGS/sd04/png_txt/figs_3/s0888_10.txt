@@ -1,3 +1,0 @@
-Gender: F
-Class: L
-History: s0888_10.pct L b225a.pct

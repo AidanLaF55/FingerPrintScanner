@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: s1809_08.pct AT b2058.pct

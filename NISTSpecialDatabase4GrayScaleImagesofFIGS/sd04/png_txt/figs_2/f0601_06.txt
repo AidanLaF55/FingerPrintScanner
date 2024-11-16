@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: f0601_06.pct A a1576.pct

@@ -1,3 +1,0 @@
-Gender: F
-Class: L
-History: f1466_09.pct L a2019.pct

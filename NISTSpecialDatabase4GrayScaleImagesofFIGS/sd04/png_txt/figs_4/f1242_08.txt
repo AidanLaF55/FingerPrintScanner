@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1242_08.pct T a2818.pct

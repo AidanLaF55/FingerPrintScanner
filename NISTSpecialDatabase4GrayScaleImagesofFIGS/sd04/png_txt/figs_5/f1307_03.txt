@@ -1,3 +1,0 @@
-Gender: F
-Class: R
-History: f1307_03.pct R a1303.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1934_07.pct TL a2677.pct

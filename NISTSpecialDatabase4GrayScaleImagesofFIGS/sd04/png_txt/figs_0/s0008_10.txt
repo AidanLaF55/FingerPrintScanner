@@ -1,3 +1,0 @@
-Gender: F
-Class: T
-History: s0008_10.pct TL b221a.pct

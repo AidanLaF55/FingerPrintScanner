@@ -1,3 +1,0 @@
-Gender: F
-Class: T
-History: s1693_08.pct TL b2168.pct

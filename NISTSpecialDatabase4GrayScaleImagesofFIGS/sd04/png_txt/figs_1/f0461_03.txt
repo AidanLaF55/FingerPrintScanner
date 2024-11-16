@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0461_03.pct TR a2673.pct

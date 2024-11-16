@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0456_06.pct TL a2436.pct

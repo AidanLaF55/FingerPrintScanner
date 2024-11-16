@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1455_03.pct TR a2393.pct

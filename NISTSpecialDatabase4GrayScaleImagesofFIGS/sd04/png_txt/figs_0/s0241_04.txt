@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: s0241_04.pct RT b2724.pct

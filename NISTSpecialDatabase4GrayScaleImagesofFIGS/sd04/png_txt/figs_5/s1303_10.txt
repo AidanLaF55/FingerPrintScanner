@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: s1303_10.pct A b166a.pct

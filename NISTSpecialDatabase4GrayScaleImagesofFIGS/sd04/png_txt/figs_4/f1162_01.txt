@@ -1,3 +1,0 @@
-Gender: F
-Class: W
-History: f1162_01.pct W a0051.pct

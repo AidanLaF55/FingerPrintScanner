@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0617_01.pct TA a2511.pct

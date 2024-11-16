@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0551_08.pct TR a2668.pct

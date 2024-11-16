@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1625_03.pct T b1913.pct

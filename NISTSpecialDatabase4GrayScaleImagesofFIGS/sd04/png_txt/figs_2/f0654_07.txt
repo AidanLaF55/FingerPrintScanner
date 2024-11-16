@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0654_07.pct T a2817.pct

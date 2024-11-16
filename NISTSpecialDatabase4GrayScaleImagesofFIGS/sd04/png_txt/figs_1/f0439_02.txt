@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0439_02.pct T a2632.pct

@@ -1,3 +1,0 @@
-Gender: F
-Class: L
-History: s1803_08.pct L b0718.pct

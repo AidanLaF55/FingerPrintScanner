@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1131_02.pct T a2822.pct

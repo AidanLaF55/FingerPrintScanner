@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s0087_03.pct TA b2793.pct

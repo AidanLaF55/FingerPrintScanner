@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1945_10.pct TL a018a.pct

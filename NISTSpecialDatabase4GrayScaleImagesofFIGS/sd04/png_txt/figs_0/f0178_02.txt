@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0178_02.pct TA a2562.pct

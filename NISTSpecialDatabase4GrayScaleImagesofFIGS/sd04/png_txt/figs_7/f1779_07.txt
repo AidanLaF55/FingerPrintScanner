@@ -1,3 +1,0 @@
-Gender: F
-Class: A
-History: f1779_07.pct A a2157.pct

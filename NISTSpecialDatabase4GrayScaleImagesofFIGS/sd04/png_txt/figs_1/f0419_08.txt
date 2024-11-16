@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0419_08.pct TL a2138.pct

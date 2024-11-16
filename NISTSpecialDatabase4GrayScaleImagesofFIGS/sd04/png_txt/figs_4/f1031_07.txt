@@ -1,3 +1,0 @@
-Gender: F
-Class: T
-History: f1031_07.pct T a2007.pct

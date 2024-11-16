@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: f1696_04.pct R a2354.pct

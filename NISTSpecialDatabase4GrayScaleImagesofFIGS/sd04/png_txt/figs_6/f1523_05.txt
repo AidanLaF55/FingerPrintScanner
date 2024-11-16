@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: f1523_05.pct RW a0695.pct

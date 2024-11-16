@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1480_02.pct T b2612.pct

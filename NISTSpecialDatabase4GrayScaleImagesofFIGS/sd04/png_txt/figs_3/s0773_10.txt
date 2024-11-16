@@ -1,3 +1,0 @@
-Gender: M
-Class: L
-History: s0773_10.pct L b264a.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: s0042_04.pct R b2604.pct

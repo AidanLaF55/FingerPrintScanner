@@ -1,3 +1,0 @@
-Gender: M
-Class: L
-History: s0234_10.pct L b024a.pct

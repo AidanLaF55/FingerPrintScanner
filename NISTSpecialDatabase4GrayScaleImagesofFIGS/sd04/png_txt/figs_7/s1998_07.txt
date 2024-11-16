@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: s1998_07.pct A b2417.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: L
-History: s1620_07.pct L b1007.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0222_03.pct T a0243.pct

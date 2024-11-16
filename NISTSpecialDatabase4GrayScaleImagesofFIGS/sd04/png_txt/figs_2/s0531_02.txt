@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s0531_02.pct T b1342.pct

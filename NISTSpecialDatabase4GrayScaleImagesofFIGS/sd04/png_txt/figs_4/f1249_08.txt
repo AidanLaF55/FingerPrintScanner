@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1249_08.pct TL a2068.pct

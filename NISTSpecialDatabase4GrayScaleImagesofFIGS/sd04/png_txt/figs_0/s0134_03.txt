@@ -1,3 +1,0 @@
-Gender: F
-Class: T
-History: s0134_03.pct TR b2213.pct

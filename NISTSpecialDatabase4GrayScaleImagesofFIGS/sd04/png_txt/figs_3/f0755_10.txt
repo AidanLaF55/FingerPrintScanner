@@ -1,3 +1,0 @@
-Gender: F
-Class: L
-History: f0755_10.pct L a115a.pct

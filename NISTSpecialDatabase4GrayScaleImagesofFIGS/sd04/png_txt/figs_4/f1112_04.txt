@@ -1,3 +1,0 @@
-Gender: M
-Class: W
-History: f1112_04.pct W a0934.pct

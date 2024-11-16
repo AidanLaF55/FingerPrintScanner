@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: f1058_04.pct R a1134.pct

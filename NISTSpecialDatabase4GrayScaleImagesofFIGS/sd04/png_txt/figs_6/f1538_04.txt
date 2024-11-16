@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: f1538_04.pct R a2334.pct

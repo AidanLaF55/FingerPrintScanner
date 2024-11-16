@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1834_02.pct TL b0512.pct

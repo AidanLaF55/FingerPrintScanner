@@ -1,3 +1,0 @@
-Gender: F
-Class: A
-History: f1099_05.pct AT a1895.pct

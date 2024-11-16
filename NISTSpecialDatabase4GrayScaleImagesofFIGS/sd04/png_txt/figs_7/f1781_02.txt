@@ -1,3 +1,0 @@
-Gender: M
-Class: W
-History: f1781_02.pct W a0962.pct

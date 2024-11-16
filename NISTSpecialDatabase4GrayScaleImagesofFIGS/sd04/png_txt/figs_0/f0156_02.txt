@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0156_02.pct T a0102.pct

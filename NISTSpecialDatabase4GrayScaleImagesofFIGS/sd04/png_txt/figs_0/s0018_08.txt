@@ -1,3 +1,0 @@
-Gender: F
-Class: A
-History: s0018_08.pct A b1948.pct

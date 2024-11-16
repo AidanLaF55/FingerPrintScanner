@@ -1,3 +1,0 @@
-Gender: F
-Class: T
-History: s0868_07.pct TR b2247.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: s0667_02.pct R b1312.pct

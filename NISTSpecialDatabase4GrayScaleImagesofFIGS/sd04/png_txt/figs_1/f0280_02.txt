@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0280_02.pct TR a2662.pct

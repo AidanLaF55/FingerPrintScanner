@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0304_08.pct TA a2478.pct

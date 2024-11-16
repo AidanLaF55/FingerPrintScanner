@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: s0664_03.pct RT b2783.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: L
-History: f0718_06.pct L a2446.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: L
-History: f0720_02.pct L a0872.pct

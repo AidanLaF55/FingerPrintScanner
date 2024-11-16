@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1182_02.pct TA a2332.pct

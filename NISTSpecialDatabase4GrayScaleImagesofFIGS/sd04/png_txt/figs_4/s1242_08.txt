@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1242_08.pct T b2818.pct

@@ -1,3 +1,0 @@
-Gender: F
-Class: R
-History: s1599_04.pct RT b2244.pct

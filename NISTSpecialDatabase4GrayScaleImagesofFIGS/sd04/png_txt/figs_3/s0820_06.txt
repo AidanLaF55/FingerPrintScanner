@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: s0820_06.pct A b2496.pct

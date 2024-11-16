@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0186_04.pct TA a2374.pct

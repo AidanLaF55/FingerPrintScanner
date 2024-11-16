@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1732_04.pct TR a2524.pct

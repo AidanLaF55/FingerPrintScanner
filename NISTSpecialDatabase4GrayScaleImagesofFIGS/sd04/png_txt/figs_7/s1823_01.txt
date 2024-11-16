@@ -1,3 +1,0 @@
-Gender: F
-Class: R
-History: s1823_01.pct R b2161.pct

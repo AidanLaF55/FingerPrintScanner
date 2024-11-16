@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: s1561_06.pct R b1066.pct

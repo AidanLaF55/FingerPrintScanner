@@ -1,3 +1,0 @@
-Gender: F
-Class: L
-History: s1451_06.pct L b1476.pct

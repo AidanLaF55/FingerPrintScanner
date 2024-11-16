@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1041_05.pct T a0135.pct

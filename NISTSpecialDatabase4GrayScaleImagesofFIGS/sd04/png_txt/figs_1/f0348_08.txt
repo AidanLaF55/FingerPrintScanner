@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: f0348_08.pct RT a0418.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: W
-History: s1507_07.pct W b0077.pct

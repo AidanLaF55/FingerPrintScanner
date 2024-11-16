@@ -1,3 +1,0 @@
-Gender: F
-Class: A
-History: s1401_06.pct A b2196.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: s0314_04.pct RT b0084.pct

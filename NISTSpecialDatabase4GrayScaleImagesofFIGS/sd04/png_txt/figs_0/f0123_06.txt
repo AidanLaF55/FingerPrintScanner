@@ -1,3 +1,0 @@
-Gender: F
-Class: L
-History: f0123_06.pct LT a2226.pct

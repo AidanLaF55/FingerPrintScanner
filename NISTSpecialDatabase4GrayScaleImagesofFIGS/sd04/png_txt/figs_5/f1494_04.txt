@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1494_04.pct T a0134.pct

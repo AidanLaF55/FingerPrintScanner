@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: f1330_03.pct RT a2463.pct

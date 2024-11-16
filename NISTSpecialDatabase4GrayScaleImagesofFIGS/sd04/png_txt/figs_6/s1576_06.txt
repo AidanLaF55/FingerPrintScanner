@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1576_06.pct TL b1926.pct

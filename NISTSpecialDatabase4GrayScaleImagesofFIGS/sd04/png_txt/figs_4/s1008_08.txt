@@ -1,3 +1,0 @@
-Gender: F
-Class: T
-History: s1008_08.pct TA b2228.pct

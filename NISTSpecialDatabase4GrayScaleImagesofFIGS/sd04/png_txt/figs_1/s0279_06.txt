@@ -1,3 +1,0 @@
-Gender: F
-Class: A
-History: s0279_06.pct A b2186.pct

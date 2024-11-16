@@ -1,3 +1,0 @@
-Gender: M
-Class: W
-History: s1040_01.pct W b0011.pct

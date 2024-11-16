@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: f0963_03.pct A a1703.pct

@@ -1,3 +1,0 @@
-Gender: F
-Class: L
-History: f1959_07.pct L a1217.pct

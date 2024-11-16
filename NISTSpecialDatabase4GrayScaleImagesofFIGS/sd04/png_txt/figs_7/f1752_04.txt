@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: f1752_04.pct R a2314.pct

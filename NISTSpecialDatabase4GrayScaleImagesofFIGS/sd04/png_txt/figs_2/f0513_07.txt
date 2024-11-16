@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0513_07.pct TL a2527.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: W
-History: f1548_06.pct W a1416.pct

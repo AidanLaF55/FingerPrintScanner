@@ -1,3 +1,0 @@
-Gender: F
-Class: A
-History: f1013_02.pct A a1612.pct

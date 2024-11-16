@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: f1825_03.pct A a1803.pct

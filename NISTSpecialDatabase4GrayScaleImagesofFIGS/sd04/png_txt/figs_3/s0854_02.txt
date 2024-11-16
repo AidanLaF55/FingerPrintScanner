@@ -1,3 +1,0 @@
-Gender: M
-Class: L
-History: s0854_02.pct L b0362.pct

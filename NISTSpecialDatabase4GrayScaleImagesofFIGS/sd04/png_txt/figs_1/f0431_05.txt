@@ -1,3 +1,0 @@
-Gender: F
-Class: R
-History: f0431_05.pct R a1935.pct

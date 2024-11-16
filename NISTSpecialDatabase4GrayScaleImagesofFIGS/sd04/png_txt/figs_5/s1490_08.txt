@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1490_08.pct T b2078.pct

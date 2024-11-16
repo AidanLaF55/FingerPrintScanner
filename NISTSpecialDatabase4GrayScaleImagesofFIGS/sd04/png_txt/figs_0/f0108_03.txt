@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0108_03.pct TR a2723.pct

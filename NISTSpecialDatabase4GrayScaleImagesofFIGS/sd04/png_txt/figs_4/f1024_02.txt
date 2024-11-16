@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1024_02.pct T a2502.pct

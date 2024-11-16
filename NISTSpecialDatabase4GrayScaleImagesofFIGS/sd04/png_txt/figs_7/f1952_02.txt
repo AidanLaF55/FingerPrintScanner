@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1952_02.pct TA a2512.pct

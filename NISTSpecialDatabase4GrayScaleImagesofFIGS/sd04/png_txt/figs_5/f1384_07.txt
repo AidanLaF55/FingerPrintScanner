@@ -1,3 +1,0 @@
-Gender: F
-Class: T
-History: f1384_07.pct TR a2037.pct

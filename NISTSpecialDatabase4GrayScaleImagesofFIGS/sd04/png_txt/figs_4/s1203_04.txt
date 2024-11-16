@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1203_04.pct TR b0174.pct

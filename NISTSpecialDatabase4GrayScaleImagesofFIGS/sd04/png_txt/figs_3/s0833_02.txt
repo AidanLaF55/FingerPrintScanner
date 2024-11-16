@@ -1,3 +1,0 @@
-Gender: F
-Class: T
-History: s0833_02.pct T b0212.pct

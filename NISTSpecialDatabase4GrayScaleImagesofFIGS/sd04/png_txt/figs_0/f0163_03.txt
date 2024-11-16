@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0163_03.pct TR a2713.pct

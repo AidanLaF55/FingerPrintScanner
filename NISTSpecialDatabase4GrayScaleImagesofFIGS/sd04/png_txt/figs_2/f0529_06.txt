@@ -1,3 +1,0 @@
-Gender: F
-Class: L
-History: f0529_06.pct L a2016.pct

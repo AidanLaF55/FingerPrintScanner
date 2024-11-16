@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1835_02.pct T a2572.pct

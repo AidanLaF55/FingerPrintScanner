@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: s1616_04.pct R b0394.pct

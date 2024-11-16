@@ -1,3 +1,0 @@
-Gender: M
-Class: L
-History: s1077_10.pct L b067a.pct

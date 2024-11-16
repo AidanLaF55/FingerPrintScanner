@@ -1,3 +1,0 @@
-Gender: M
-Class: W
-History: f0180_01.pct W a0621.pct

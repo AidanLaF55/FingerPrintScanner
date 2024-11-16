@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: f0592_10.pct A a175a.pct

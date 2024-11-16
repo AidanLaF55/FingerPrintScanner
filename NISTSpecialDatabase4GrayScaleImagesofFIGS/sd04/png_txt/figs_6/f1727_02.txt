@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1727_02.pct T a2682.pct

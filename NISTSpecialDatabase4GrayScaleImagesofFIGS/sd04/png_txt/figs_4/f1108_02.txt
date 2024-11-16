@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: f1108_02.pct A a0422.pct

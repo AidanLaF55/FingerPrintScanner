@@ -1,3 +1,0 @@
-Gender: F
-Class: T
-History: s1530_02.pct T b2202.pct

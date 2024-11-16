@@ -1,3 +1,0 @@
-Gender: F
-Class: A
-History: f0364_03.pct A a1993.pct

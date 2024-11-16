@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1669_03.pct TR a2603.pct

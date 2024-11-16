@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: f0831_10.pct A a165a.pct

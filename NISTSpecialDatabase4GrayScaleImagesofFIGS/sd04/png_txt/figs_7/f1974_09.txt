@@ -1,3 +1,0 @@
-Gender: M
-Class: L
-History: f1974_09.pct L a2499.pct

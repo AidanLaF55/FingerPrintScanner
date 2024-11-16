@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1558_07.pct TR b2737.pct

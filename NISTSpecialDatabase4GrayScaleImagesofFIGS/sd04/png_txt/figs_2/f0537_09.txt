@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0537_09.pct TL a1929.pct

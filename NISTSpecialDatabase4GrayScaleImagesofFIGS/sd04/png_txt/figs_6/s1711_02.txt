@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1711_02.pct T b2532.pct

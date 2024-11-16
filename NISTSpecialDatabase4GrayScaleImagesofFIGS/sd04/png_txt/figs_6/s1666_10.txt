@@ -1,3 +1,0 @@
-Gender: M
-Class: L
-History: s1666_10.pct L b261a.pct

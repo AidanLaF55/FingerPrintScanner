@@ -1,3 +1,0 @@
-Gender: F
-Class: A
-History: s1568_08.pct A b2008.pct

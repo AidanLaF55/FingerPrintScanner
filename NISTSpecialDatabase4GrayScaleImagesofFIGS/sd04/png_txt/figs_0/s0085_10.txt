@@ -1,3 +1,0 @@
-Gender: F
-Class: L
-History: s0085_10.pct L b196a.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0850_07.pct TA a2387.pct

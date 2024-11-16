@@ -1,3 +1,0 @@
-Gender: M
-Class: L
-History: s1768_06.pct L b0426.pct

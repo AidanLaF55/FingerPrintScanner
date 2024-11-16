@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: f1753_02.pct R a0882.pct

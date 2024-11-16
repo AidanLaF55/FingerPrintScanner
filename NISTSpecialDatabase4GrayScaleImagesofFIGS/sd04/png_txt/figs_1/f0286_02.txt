@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: f0286_02.pct R a0392.pct

@@ -1,3 +1,0 @@
-Gender: F
-Class: L
-History: f1320_10.pct L a147a.pct

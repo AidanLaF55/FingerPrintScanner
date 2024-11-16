@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0401_08.pct T a2488.pct

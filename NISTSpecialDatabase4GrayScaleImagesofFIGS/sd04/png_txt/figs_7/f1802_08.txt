@@ -1,3 +1,0 @@
-Gender: F
-Class: T
-History: f1802_08.pct T a2208.pct

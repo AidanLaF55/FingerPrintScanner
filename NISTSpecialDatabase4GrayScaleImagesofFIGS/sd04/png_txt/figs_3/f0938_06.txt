@@ -1,3 +1,0 @@
-Gender: M
-Class: L
-History: f0938_06.pct LT a2416.pct

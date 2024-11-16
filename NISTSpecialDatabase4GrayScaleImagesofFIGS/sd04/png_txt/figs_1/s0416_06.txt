@@ -1,3 +1,0 @@
-Gender: F
-Class: R
-History: s0416_06.pct R b1946.pct

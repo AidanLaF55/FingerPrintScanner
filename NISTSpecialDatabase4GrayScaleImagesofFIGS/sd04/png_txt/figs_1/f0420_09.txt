@@ -1,3 +1,0 @@
-Gender: M
-Class: L
-History: f0420_09.pct L a1179.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: s0349_09.pct AT b0789.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0187_08.pct TL a2768.pct

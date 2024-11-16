@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0674_04.pct TR a2394.pct

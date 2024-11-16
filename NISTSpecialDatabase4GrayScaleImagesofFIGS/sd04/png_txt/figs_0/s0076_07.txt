@@ -1,3 +1,0 @@
-Gender: F
-Class: T
-History: s0076_07.pct TR b1987.pct

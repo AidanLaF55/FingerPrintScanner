@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: s0110_08.pct RT b2458.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: W
-History: f1844_06.pct W a0836.pct

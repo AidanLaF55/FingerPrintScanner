@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1639_06.pct TA a1906.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: s0013_03.pct A b1553.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1635_02.pct TL b0152.pct

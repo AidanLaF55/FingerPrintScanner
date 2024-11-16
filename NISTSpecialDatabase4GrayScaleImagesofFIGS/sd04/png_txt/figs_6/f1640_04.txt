@@ -1,3 +1,0 @@
-Gender: M
-Class: W
-History: f1640_04.pct W a0254.pct

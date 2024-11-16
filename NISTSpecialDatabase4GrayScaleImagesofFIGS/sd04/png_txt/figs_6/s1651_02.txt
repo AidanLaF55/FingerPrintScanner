@@ -1,3 +1,0 @@
-Gender: M
-Class: W
-History: s1651_02.pct W b0282.pct

@@ -1,3 +1,0 @@
-Gender: F
-Class: T
-History: s0277_05.pct T b1945.pct

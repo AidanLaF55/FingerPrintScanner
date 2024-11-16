@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1380_02.pct T b2382.pct

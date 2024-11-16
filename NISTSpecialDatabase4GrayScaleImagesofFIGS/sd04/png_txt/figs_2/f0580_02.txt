@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0580_02.pct T a1922.pct

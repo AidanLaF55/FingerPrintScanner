@@ -1,3 +1,0 @@
-Gender: M
-Class: W
-History: f1263_09.pct W a0319.pct

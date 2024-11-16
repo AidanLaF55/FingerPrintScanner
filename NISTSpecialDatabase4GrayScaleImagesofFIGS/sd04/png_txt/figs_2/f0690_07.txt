@@ -1,3 +1,0 @@
-Gender: F
-Class: L
-History: f0690_07.pct L a1157.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: L
-History: s1336_10.pct L b113a.pct

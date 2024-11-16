@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1179_10.pct TL a015a.pct

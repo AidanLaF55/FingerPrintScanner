@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0705_03.pct T a2763.pct

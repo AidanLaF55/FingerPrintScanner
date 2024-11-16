@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0561_08.pct TA a2598.pct

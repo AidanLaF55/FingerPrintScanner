@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: s0098_07.pct A b1457.pct

@@ -1,3 +1,0 @@
-Gender: F
-Class: R
-History: s1965_04.pct R b2304.pct

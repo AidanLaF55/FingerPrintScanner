@@ -1,3 +1,0 @@
-Gender: M
-Class: L
-History: f0063_06.pct L a2646.pct

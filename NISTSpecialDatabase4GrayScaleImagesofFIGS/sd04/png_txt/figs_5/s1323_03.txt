@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1323_03.pct TA b2693.pct

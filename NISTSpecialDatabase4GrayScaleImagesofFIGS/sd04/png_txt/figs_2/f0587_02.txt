@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0587_02.pct T a2372.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s0819_07.pct T b2747.pct

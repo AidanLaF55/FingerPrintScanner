@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: f1440_05.pct R a2825.pct

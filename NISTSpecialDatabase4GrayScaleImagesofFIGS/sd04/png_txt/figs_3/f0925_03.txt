@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: f0925_03.pct R a2133.pct

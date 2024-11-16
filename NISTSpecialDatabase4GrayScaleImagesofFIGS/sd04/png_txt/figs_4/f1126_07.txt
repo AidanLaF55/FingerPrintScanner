@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: f1126_07.pct A a2117.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1261_07.pct TA a2797.pct

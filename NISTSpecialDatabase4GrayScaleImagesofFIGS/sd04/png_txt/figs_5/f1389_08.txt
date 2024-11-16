@@ -1,3 +1,0 @@
-Gender: F
-Class: L
-History: f1389_08.pct L a1388.pct

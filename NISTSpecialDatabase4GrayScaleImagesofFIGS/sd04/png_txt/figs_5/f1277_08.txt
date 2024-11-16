@@ -1,3 +1,0 @@
-Gender: F
-Class: L
-History: f1277_08.pct LT a2258.pct

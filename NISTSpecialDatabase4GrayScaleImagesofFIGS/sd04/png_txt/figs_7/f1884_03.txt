@@ -1,3 +1,0 @@
-Gender: F
-Class: W
-History: f1884_03.pct W a0213.pct

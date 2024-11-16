@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0126_10.pct TA a205a.pct

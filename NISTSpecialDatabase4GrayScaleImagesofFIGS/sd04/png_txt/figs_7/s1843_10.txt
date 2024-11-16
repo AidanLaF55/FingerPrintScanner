@@ -1,3 +1,0 @@
-Gender: F
-Class: T
-History: s1843_10.pct TL b161a.pct

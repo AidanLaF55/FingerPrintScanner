@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: f1956_10.pct A a158a.pct

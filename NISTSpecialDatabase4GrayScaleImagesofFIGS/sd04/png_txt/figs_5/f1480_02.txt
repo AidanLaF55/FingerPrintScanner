@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1480_02.pct T a2612.pct

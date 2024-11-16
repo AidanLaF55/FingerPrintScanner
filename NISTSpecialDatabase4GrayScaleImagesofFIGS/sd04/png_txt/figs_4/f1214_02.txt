@@ -1,3 +1,0 @@
-Gender: M
-Class: W
-History: f1214_02.pct WL a1402.pct

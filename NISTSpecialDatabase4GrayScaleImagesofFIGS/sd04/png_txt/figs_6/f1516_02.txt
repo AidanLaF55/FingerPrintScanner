@@ -1,3 +1,0 @@
-Gender: F
-Class: R
-History: f1516_02.pct R a1382.pct

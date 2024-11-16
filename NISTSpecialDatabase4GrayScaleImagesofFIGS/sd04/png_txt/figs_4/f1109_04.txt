@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: f1109_04.pct R a2064.pct

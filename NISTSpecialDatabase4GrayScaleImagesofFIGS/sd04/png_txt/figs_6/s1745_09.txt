@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1745_09.pct TL b0239.pct

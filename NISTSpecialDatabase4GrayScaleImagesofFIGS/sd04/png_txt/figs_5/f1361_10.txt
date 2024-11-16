@@ -1,3 +1,0 @@
-Gender: F
-Class: L
-History: f1361_10.pct L a030a.pct

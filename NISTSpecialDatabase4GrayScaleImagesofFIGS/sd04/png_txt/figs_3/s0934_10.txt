@@ -1,3 +1,0 @@
-Gender: M
-Class: L
-History: s0934_10.pct LW b139a.pct

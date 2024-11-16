@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1773_07.pct TA b2367.pct

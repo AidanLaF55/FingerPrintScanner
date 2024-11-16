@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1751_08.pct TA b2618.pct

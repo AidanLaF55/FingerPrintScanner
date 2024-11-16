@@ -1,3 +1,0 @@
-Gender: F
-Class: T
-History: f0571_02.pct TA a2182.pct

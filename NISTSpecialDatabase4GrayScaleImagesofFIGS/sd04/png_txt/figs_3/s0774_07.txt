@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: s0774_07.pct A b1577.pct

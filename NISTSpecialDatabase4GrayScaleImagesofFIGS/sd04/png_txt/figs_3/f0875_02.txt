@@ -1,3 +1,0 @@
-Gender: F
-Class: A
-History: f0875_02.pct A a1822.pct

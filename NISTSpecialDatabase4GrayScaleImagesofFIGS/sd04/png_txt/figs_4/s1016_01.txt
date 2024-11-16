@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: s1016_01.pct R b2641.pct

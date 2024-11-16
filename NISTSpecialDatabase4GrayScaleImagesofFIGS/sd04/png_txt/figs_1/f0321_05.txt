@@ -1,3 +1,0 @@
-Gender: F
-Class: T
-History: f0321_05.pct TA a1815.pct

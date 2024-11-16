@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: s0806_04.pct RT b0124.pct

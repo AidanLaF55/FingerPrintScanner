@@ -1,3 +1,0 @@
-Gender: F
-Class: T
-History: s1553_08.pct TL b1978.pct

@@ -1,3 +1,0 @@
-Gender: F
-Class: W
-History: f1797_09.pct W a0309.pct

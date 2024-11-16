@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: s0099_02.pct A b1512.pct

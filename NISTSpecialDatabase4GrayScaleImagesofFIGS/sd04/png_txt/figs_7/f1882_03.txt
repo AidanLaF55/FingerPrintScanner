@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1882_03.pct TR a2803.pct

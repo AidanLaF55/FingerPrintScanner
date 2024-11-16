@@ -1,3 +1,0 @@
-Gender: M
-Class: L
-History: s1526_03.pct L b1353.pct

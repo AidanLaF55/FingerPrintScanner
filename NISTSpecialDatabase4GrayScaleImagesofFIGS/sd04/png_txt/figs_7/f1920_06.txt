@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: f1920_06.pct A a1766.pct

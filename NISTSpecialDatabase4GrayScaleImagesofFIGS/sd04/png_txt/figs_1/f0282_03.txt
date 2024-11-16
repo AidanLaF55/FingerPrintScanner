@@ -1,3 +1,0 @@
-Gender: F
-Class: T
-History: f0282_03.pct TA a2223.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0616_08.pct TL a2338.pct

@@ -1,3 +1,0 @@
-Gender: F
-Class: R
-History: f0340_03.pct R a2293.pct

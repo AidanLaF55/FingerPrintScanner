@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0118_08.pct T a2368.pct

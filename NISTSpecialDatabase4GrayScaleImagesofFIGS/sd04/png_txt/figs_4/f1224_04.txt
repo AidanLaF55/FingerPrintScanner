@@ -1,3 +1,0 @@
-Gender: M
-Class: W
-History: f1224_04.pct W a0894.pct

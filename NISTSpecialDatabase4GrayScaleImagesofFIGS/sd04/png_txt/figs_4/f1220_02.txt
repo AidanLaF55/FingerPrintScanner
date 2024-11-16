@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1220_02.pct TR a2452.pct

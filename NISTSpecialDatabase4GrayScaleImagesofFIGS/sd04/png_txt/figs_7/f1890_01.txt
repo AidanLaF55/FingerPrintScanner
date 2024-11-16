@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: f1890_01.pct R a2441.pct

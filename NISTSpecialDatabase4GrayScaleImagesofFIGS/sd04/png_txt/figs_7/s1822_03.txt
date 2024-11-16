@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: s1822_03.pct R b2533.pct

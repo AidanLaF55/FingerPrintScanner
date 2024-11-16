@@ -1,3 +1,0 @@
-Gender: F
-Class: L
-History: f0717_10.pct L a227a.pct

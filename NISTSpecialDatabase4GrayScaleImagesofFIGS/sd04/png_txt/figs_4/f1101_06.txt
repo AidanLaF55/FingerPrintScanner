@@ -1,3 +1,0 @@
-Gender: F
-Class: L
-History: f1101_06.pct L a1936.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: L
-History: f1895_02.pct L a1102.pct

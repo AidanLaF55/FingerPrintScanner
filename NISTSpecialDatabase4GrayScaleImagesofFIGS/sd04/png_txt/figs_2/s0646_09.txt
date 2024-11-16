@@ -1,3 +1,0 @@
-Gender: F
-Class: L
-History: s0646_09.pct LT b2219.pct

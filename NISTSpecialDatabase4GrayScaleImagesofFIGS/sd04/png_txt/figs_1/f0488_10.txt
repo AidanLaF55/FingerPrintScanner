@@ -1,3 +1,0 @@
-Gender: M
-Class: L
-History: f0488_10.pct L a275a.pct

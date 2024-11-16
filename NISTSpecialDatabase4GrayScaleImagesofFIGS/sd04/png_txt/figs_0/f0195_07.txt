@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0195_07.pct TL a0187.pct

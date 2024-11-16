@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: f1441_02.pct R a0752.pct

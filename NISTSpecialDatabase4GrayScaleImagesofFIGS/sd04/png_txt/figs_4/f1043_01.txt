@@ -1,3 +1,0 @@
-Gender: F
-Class: R
-History: f1043_01.pct R a2021.pct

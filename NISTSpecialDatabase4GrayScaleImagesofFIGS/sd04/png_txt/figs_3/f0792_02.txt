@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0792_02.pct T a2432.pct

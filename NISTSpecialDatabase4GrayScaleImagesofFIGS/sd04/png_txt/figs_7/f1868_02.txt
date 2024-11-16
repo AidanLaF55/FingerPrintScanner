@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1868_02.pct TL a0762.pct

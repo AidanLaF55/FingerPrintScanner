@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0760_06.pct TL a1166.pct

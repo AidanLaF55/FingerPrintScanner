@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: f0429_04.pct RT a2414.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: s1921_04.pct R b2794.pct

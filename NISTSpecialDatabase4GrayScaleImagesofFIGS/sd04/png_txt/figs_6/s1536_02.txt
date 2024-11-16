@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1536_02.pct TL b0732.pct

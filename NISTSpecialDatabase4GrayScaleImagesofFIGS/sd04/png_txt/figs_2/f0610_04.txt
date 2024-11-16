@@ -1,3 +1,0 @@
-Gender: F
-Class: T
-History: f0610_04.pct TR a2184.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: s0341_03.pct R b1323.pct

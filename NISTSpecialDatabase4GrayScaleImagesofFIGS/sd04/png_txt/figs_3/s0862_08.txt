@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s0862_08.pct TL b1928.pct

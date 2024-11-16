@@ -1,3 +1,0 @@
-Gender: F
-Class: W
-History: s1462_09.pct W b1389.pct

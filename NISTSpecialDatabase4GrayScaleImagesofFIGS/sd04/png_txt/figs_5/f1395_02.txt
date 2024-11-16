@@ -1,3 +1,0 @@
-Gender: F
-Class: R
-History: f1395_02.pct RT a0502.pct

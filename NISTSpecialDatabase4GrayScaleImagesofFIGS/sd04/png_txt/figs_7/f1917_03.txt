@@ -1,3 +1,0 @@
-Gender: M
-Class: W
-History: f1917_03.pct W a0573.pct

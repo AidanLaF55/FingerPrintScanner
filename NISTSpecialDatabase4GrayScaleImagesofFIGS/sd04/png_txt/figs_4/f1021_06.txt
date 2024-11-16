@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: f1021_06.pct A a0366.pct

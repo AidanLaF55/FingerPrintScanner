@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: f1122_02.pct R a0652.pct

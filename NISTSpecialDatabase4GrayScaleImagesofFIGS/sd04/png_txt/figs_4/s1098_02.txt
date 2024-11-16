@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1098_02.pct TR b2702.pct

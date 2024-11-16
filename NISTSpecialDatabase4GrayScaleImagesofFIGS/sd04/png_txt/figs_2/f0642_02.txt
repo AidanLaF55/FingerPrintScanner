@@ -1,3 +1,0 @@
-Gender: M
-Class: A
-History: f0642_02.pct A a0792.pct

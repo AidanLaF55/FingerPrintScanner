@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s0958_09.pct TL b2059.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: s1674_02.pct TL b0742.pct

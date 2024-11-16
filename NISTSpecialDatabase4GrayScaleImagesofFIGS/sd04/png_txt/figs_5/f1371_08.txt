@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f1371_08.pct TR a2578.pct

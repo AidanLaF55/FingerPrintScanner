@@ -1,3 +1,0 @@
-Gender: M
-Class: T
-History: f0050_01.pct TA a2461.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: L
-History: f1095_09.pct LT a2699.pct

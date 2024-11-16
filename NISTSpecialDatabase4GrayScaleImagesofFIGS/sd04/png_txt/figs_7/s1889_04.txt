@@ -1,3 +1,0 @@
-Gender: M
-Class: R
-History: s1889_04.pct R b2814.pct

@@ -1,3 +1,0 @@
-Gender: M
-Class: W
-History: f1680_02.pct W a0352.pct
